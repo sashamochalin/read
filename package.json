@@ -2,7 +2,7 @@
   "name": "reading",
   "version": "1.0.0",
   "description": "stata",
-  "homepage": "https://github.com/sashamochalin/reading#readme",
+  "homepage": "https://github.com/sashamochalin/read#readme",
   "main": "index.js",
   "scripts": {
     "predeploy": "npm run build",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sashamochalin/reading.git"
+    "url": "git+https://github.com/sashamochalin/read.git"
   },
   "author": "sashamochalin",
   "license": "ISC",
@@ -40,6 +40,6 @@
     "webpack-dev-server": "^4.15.1"
   },
   "bugs": {
-    "url": "https://github.com/sashamochalin/reading/issues"
+    "url": "https://github.com/sashamochalin/read/issues"
   }
 }
