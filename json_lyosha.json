@@ -1,0 +1,148 @@
+{
+	"item" : [
+	{
+		"author"     : "Джордж Оруэлл",
+		"country"    : "England",
+		"collection" : [
+			{
+				"title" : "Скотный двор",
+				"year"  : "1945"
+			}]
+	},
+	{
+		"author"     : "Сергей Довлатов",
+		"country"    : "Russia",
+		"collection" : [
+			{
+				"title" : "Ремесло",
+				"year"  : "1985"
+			},
+			{
+				"title" : "Компромисс",
+				"year"  : "1981"
+			},
+			{
+				"title" : "Чемодан",
+				"year"  : "1986"
+			}]
+	},
+	{
+		"author"     : "Хэл Элрод",
+		"country"    : "USA",
+		"collection" : [
+			{
+				"title" : "Магия утра",
+				"year"  : "2022"
+			}]
+	},
+	{
+		"author"     : "Дмитрий Сафонов",
+		"country"    : "Russia",
+		"collection" : [
+			{
+				"title" : "Метро",
+				"year"  : "2008"
+			}
+		]
+	},
+
+	{
+		"author"     : "Кристина Хигер",
+		"country"    : "USA",
+		"collection" : [
+			{
+				"title" : "В темноте",
+				"year"  : "2008"
+			}]
+	},
+	
+	{
+		"author"     : "Майкл Ньютон",
+		"country"    : "USA",
+		"collection" : [
+			{
+				"title" : "Путешествия души",
+				"year"  : "1994"
+			}]
+	},
+	{
+		"author"     : "Дэн Ариели",
+		"country"    : "USA",
+		"collection" : [
+			{
+				"title" : "Предсказуемая иррациональность",
+				"year"  : "2008"
+			}]
+	},
+	{
+		"author"     : "Стеффен Квернеланн",
+		"country"    : "Norway",
+		"collection" : [
+			{
+				"title" : "Мунк",
+				"year"  : "2019"
+			}]
+	},
+	{
+		"author"     : "Дэвид Гранн",
+		"country"    : "USA",
+		"collection" : [
+			{
+				"title" : "Белая тьма",
+				"year"  : "2018"
+			}]
+	},
+	{
+		"author"     : "Стивен Кинг",
+		"country"    : "USA",
+		"collection" : [
+			{
+				"title" : "Мертвая зона",
+				"year"  : "1979"
+			}]
+	},
+	{
+		"author"     : "Борис Васильев",
+		"country"    : "USA",
+		"collection" : [
+			{
+				"title" : "Завтра была война",
+				"year"  : "1984"
+			}]
+	},
+	{
+		"author"     : "Стивен Кови",
+		"country"    : "USA",
+		"collection" : [
+			{
+				"title" : "7 навыков высокоэффективных людей",
+				"year"  : "1989"
+			}]
+	},
+	{
+		"author"     : "Михаил Булгаков",
+		"country"    : "USA",
+		"collection" : [
+			{
+				"title" : "Мастер и Маргарита",
+				"year"  : "1928"
+			}]
+	},
+	{
+		"author"     : "Пауло Коэльо",
+		"country"    : "Portugal",
+		"collection" : [
+			{
+				"title" : "Алхимик",
+				"year"  : "1988"
+			},
+			{
+				"title" : "Одиннадцать минут",
+				"year"  : "2003"
+			},
+		{
+				"title" : "Вероника решает умереть",
+				"year"  : "1998"
+			}]
+	}
+]}

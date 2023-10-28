@@ -630,6 +630,16 @@
 			}]
 	},
 	{
+		"author"     : "Мршавко Штапич",
+		"country"    : "Russia",
+		"collection" : [
+			{
+				"title" : "Дневник волонтёра",
+				"year"  : "2020"	
+			}
+		]
+	},
+	{
 		"author"     : "Мэтью Грин",
 		"country"    : "USA",
 		"collection" : [
