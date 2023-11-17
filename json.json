@@ -480,6 +480,15 @@
 			}]
 	},
 	{
+		"author"     : "Иван Тургенев",
+		"country"    : "Russia",
+		"collection" : [
+			{
+				"title" : "Дым",
+				"year"  : "1867"
+			}]
+	},
+	{
 		"author"     : "Кирилл Кутузов",
 		"country"    : "Russia",
 		"collection" : [
@@ -520,7 +529,7 @@
 			},
 			{
 				"title" : "Внук Персея",
-				"year"  : "2020"
+				"year"  : "2011"
 			}]
 	},
 	{
