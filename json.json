@@ -21,6 +21,16 @@
 		]
 	},
 	{
+		"author"     : "Алексей Иванов",
+		"country"    : "Russia",
+		"collection" : [
+			{
+				"title" : "Псоглавцы",
+				"year"  : "2011"
+			}
+		]
+	},
+	{
 		"author"     : "Андрей Подшибякин",
 		"country"    : "Russia",
 		"collection" : [
