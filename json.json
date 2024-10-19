@@ -11,6 +11,16 @@
 		]
 	},
 	{
+		"author"     : "Александр Матюхин",
+		"country"    : "Russia",
+		"collection" : [
+			{
+				"title" : "Кладбище ведьм",
+				"year"  : "2020"
+			}
+		]
+	},
+	{
 		"author"     : "Алексей Волков",
 		"country"    : "Russia",
 		"collection" : [
